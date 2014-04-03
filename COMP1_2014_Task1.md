@@ -38,6 +38,11 @@ When you complete a game you will be asked to add your score to the list of most
 2. How will you ensure that the user is asked for the name repeatedly?
 3. What additional variable will you need and what will its datatype be?
 
+
+> 1. GetPlayerName
+2. Check that user input has a length of greater than 0 using an IF statement after user input, in a WHILE loop
+3. ValidName which is a Boolean variable, initalised to False
+
 ###Pseudo-code
 Write the function identified above in pseudo-code with the improvements necessary to prevent the user leaving their name blank.
 
